@@ -1,0 +1,18 @@
+.banner{
+    background-image: url("../img/P1250269.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.login{
+    margin-top: 50px;
+}
+
+.card{
+    background: rgba(255, 255, 255, .6);
+    padding: 10px;
+}
+
+footer{
+    border-top: 1px solid #e0e0e0; 
+}
